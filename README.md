@@ -8,7 +8,7 @@ The hackathon is timed to coincide with International Flutter Day which is organ
 
   Gif                 |   Screenshot
 :-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_hack20_cyber_theme/blob/master/screenshots/screen_gif.gif?raw=true)|![](https://github.com/TheAlphamerc/flutter_hack20_cyber_theme/blob/master/screenshots/screenshot.jpg?raw=true)
+<img src="https://github.com/TheAlphamerc/flutter_hack20_cyber_theme/blob/master/screenshots/screen_gif.gif?raw=true" alt="drawing" width="320"/> | <img src="https://github.com/TheAlphamerc/flutter_hack20_cyber_theme/blob/master/screenshots/screenshot.jpg?raw=true" alt="drawing" width="320"/>
 
 
 ## Directory Structure
