@@ -1,6 +1,6 @@
 # Flutter Hack20 CyberTheme  ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fthealphamerc) [![GitHub stars](https://img.shields.io/github/stars/Thealphamerc/flutter_hack20_cyber_theme?style=social)](https://github.com/login?return_to=%2FTheAlphamerc%flutter_hack20_cyber_theme) ![GitHub forks](https://img.shields.io/github/forks/TheAlphamerc/flutter_hack20_cyber_theme?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/Thealphamerc/flutter_hack20_cyber_theme) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Thealphamerc/flutter_hack20_cyber_theme) 
 
-Flutter Hack20 final subbmission.</br>
+Virtual Jarvis artificial intelligencu UI implementation app is build for Flutter Hack20 organised by Flutter community 25 Jun - 27 Jun 2020 [Flutter Hackthon](https://flutterhackathon.com/) . </br>
 The hackathon is timed to coincide with International Flutter Day which is organized by Google on Thursday, June 25, 2020. 
 
 
